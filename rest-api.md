@@ -321,7 +321,7 @@ timestamp | LONG | YES |
       "quoteQuantity": "0.01500000",
       "commission": "0.00000750",
       "commissionAsset": "BTC"
-    }
+    },
     {
       "price": "0.00002000",
       "quantity": "500.000000",
