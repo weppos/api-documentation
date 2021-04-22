@@ -224,7 +224,7 @@ symbol | STRING | YES |
 ```
 GET /api/v0/ticker/price
 ```
-Latest price for a symbol or symbols.
+Latest price for a symbol.
 
 **Parameters:**
 
