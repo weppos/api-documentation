@@ -179,7 +179,9 @@ limit | INT | NO | Default 100; max 1000.
     "closePrice": "0.00002253",
     "volume": "10.001301",
     "quoteVolume": "0.000224824",
-    "numberOfTrades": 42
+    "numberOfTrades": 42,
+    "firstTradeId":515461,
+    "lastTradeId":516633
   }
 ]
 ```
